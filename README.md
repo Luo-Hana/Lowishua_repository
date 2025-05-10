@@ -1,4 +1,3 @@
-# Lowishua_repository
 #项目介绍
   本项目实现了基于Arduino开发板的蓝牙和指纹识别开锁系统。
 #使用说明
